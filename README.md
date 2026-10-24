@@ -58,4 +58,4 @@ Microsoft Excel: PivotTables with slicers
 
 ## 👤 Author
 
-[Your Name] · [LinkedIn link]
+Mohamed EL Maghawry · [LinkedIn](https://www.linkedin.com/in/mohamed-el-maghawry-a60232b4) · maghawry.17@gmail.com
